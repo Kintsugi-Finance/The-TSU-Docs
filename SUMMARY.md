@@ -49,7 +49,7 @@
 * [Token Allowance](safu-protocol/token-allowance.md)
 * [Beefy Backup](safu-protocol/beefy-backup.md)
 
-## Cowmoonity/Governance <a href="#community-governance" id="community-governance"></a>
+## Community/Governance
 
 * [Team & Goals](community/team-and-goals.md)
 * [Contributor Compensation](community/contributor-compensation.md)
