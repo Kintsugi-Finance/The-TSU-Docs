@@ -30,7 +30,7 @@
 
 * [General](faq/general.md)
 * [Beefy Infographics](faq/infographics.md)
-* [mooVaults APY](faq/moovaults-apy.md)
+* [wooVaults APY](faq/moovaults-apy.md)
 * [How-To Guides](faq/how-to-guides/README.md)
   * [How to participate in a mooVault](faq/how-to-guides/how-to-participate-in-a-moovault.md)
   * [How to Add a Custom Token to Metamask](faq/how-to-guides/how-to-add-a-custom-token-to-metamask.md)
