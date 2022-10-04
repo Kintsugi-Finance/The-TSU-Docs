@@ -21,14 +21,6 @@
 
 * [General](faq/general.md)
 * [Kintsugi Infographics](faq/infographics.md)
-* [wooVaults APY](faq/moovaults-apy.md)
-  * [How to participate in a mooVault](faq/how-to-guides/how-to-participate-in-a-moovault.md)
-  * [How to Add a Custom Token to Metamask](faq/how-to-guides/how-to-add-a-custom-token-to-metamask.md)
-  * [How to Add and Remove Liquidity](faq/how-to-guides/how-to-add-remove-liquidity.md)
-  * [How to use Kintsugi Zap](faq/how-to-guides/how-to-kintsugi-zap.md)
-  * [How to add and switch networks on Kintsugi Finance](faq/how-to-guides/how-to-add-and-switch-networks-on-kintsugi-finance.md)
-  * [How to bridge TSU cross-chain](faq/how-to-guides/how-to-bridge-tsu-cross-chain.md)
-  * [How to check the harvesting and compounding rate of a vault](faq/how-to-guides/how-to-check-harvesting-compounding-rate.md)
 
 
 ## Additional Resources
