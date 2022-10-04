@@ -18,8 +18,3 @@ Here we will aggregate a lot of information to help you get started with DeFi an
 [connecting-your-wallet-to-beefy.md](connecting-your-wallet-to-beefy.md)
 {% endcontent-ref %}
 
-Once you are ready to go, have a look at our other How-To Guides:
-
-{% content-ref url="../faq/how-to-guides/" %}
-[how-to-guides](../faq/how-to-guides/)
-{% endcontent-ref %}
