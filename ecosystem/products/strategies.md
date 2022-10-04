@@ -1,22 +1,14 @@
 # Strategies
 
-Here we are using Beefy's same strategies contract to power our LP Vaults.
+Here we are using Kintsugi's same strategies contract to power our LP Vaults.
 
 ### What is a Vault Strategy?
 
 Kintsugi's vault strategies are modular smart contracts that tell it what assets to farm, and where it should sell the farmed assets. Rewards are regularly harvested, swapped for the original vault asset, and deposited again for compound farming.
 
-### How do LP Vaults work?
-
-![](../../.gitbook/assets/Flow\_LP.png)
-
-### How do Lending Vaults work?
-
-![](../../.gitbook/assets/Flow\_single\_asset\_lending.png)
-
 ### **Who is in control of the strategies?**
 
-Each vault and strategy link is hardcoded, and the code has been built to be immutable, so once they are released, they become unstoppable. No one can modify the vaults and strategies.
+Each vault and strategy link is hardcoded, and the code has been built to be immutable, so once they are renounced, they become unstoppable. No one can modify the vaults and strategies.
 
 To release a new strategy on any asset, a new vault and strategy smart contract must be built.
 

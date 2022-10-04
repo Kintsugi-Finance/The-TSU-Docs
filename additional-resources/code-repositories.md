@@ -23,8 +23,5 @@
 
 ## Smart Contracts
 
-* [BIFI Token](https://github.com/beefyfinance/beefy-protocol/tree/master/token)
-* BIFI Distribution:
-  * [Pools](https://github.com/beefyfinance/beefy-protocol/tree/master/pools)
-  * [Team Timelocks](https://github.com/beefyfinance/beefy-protocol/tree/master/timelocks)
-  * [Misc.](https://github.com/beefyfinance/beefy-protocol/tree/master/contracts)
+* [TSU Token](https://github.com/beefyfinance/beefy-protocol/tree/master/token)
+

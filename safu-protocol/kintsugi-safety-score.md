@@ -1,12 +1,12 @@
-# Beefy Safety Score
+# Kintsugi Safety Score
 
-This document outlines the design for the Beefy Safety Score. The purpose of the safety score is to educate users when making a decision to enter a particular Beefy vault. The Safety Score is not necessarily perfect, but it is another tool that helps the user.
+This document outlines the design for the Kintsugi Safety Score. The purpose of the safety score is to educate users when making a decision to enter a particular Kintsugi vault. The Safety Score is not necessarily perfect, but it is another tool that helps the user.
 
 The safety score that a vault can get goes from 0 to 10. The best possible score is 10 and the worst is 0. It is technically possible for vaults to score less than 0, in which case 0 will be displayed.
 
 Risks are distributed in three main categories:
 
-* Beefy Risks: Risks that we add by serving as a platform.&#x20;
+* Kintsugi Risks: Risks that we add by serving as a platform.&#x20;
 * Asset Risks: Risks of the asset being handled by the vault.
 * Platform Risks: Risks of the underlying farm or platform used.
 
@@ -14,9 +14,9 @@ Each category is responsible for a percentage of the total score. Each category 
 
 All vaults start with a perfect score of 10 and are subtracted points whenever they have qualities that increase risk.
 
-## Category: Beefy Risks
+## Category: Kintsugi Risks
 
-These are risks related to the Beefy Finance platform itself. These could be risks added by the complexity of the vault strategy, if it's an experimental deployment, if it's been audited by others, etc. Twenty percent of the safety score is determined by the Beefy Risks.
+These are risks related to the Kintsugi Finance platform itself. These could be risks added by the complexity of the vault strategy, if it's an experimental deployment, if it's been audited by others, etc. Twenty percent of the safety score is determined by the Kintsugi Risks.
 
 ### Subcategory: Complexity
 
@@ -30,13 +30,13 @@ Tracks the complexity of the strategy behind a vault.
 
 #### COMPLEXITY\_MID
 
-* Title: Beefy strategy is of medium complexity
+* Title: Kintsugi strategy is of medium complexity
 * Explanation: Medium complexity strategies interact with two or more audited and well-known smart contracts. Its code is still easy to read, test and debug. It mitigates most implementation risks by keeping things simple, however the interactions between 2 or more systems add a layer of complexity.
 * Qualification Criteria: A medium complexity strategy interacts with 2 or more well-known smart contracts. This strategy automates the execution of a series of steps with no forking paths. Every time deposit(), harvest() and withdraw() is called, the same execution path is followed.
 
 #### COMPLEXITY\_HIGH
 
-* Title: Beefy strategy is complex&#x20;
+* Title: Kintsugi strategy is complex&#x20;
 * Explanation: High complexity strategies interact with one or more well-known smart contracts. These advanced strategies present branching paths of execution. In some cases multiple smart contracts are required to implement the full strategy.
 * Qualification Criteria: A high level complexity strategy can be identified by one or more of the following factors: high cyclomatic complexity, interactions between two or more third-party platforms, implementation split between multiple smart contracts.
 
@@ -46,10 +46,10 @@ Tracks how long has this strategy been running without any major issues.
 
 #### BATTLE\_TESTED
 
-* Title: Beefy strategy is battle tested
+* Title: Kintsugi strategy is battle tested
 * Explanation: The more time a particular strategy is running, the more likely that any potential bugs it had have been found, and fixed. This strategy has been exposed to attacks and usage for some time already, with little to no changes. This makes it sturdier.&#x20;
 * Qualification Criteria:
-  * Was deployed using a BeefyStratFactory
+  * Was deployed using a KintsugiStratFactory
   * 10+ strategies sharing the same code deployed
   * 3 months working as expected without upgrades
 
@@ -196,7 +196,7 @@ Tracks various smart contract good practices.
 #### CONTRACTS\_UNVERIFIED
 
 * Title: Some contracts are not verified
-* Explanation: Code running in a particular contract is not public by default. Block explorers let developers verify the code behind a particular contract. This is a good practice because it lets other developers audit that the code does what it’s supposed to. Some of the third party contracts that this vault uses are not verified. This means that there are certain things that the Beefy devs have not been able to inspect.
+* Explanation: Code running in a particular contract is not public by default. Block explorers let developers verify the code behind a particular contract. This is a good practice because it lets other developers audit that the code does what it’s supposed to. Some of the third party contracts that this vault uses are not verified. This means that there are certain things that the Kintsugi devs have not been able to inspect.
 * Qualification Criteria: -
 
 #### ADMIN\_WITH\_TIMELOCK
