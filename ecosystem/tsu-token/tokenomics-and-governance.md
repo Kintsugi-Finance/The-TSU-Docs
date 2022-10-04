@@ -6,7 +6,7 @@ $TSU tokens are revenue shares in Kintsugi Finance, through which holders earn p
 
 $TSU, otherwise known as TSU, is the native governance token of our project. By staking it in a TSU Native vault, the TSU earnings pool, or any BIFI liquidity vault, or simply holding this token in your wallet, users can participate in the DAO decision-making governance processes of Kintsugi Finance.&#x20;
 
-Governance proposals are submitted on [https://vote.kintsugi.finance/#/](https://vote.beefy.finance/#/) and users are encouraged to vote. Users do not need to un-stake their tokens to participate in the voting process. This incentivizes much more voter participation as it means users don’t miss rewards. More details of the voting procedure are available on the [Governance page](../../community-governance/governance.md).
+Governance proposals are submitted on [https://vote.kintsugi.finance/#/](https://vote.kintsugi.finance/#/) and users are encouraged to vote. Users do not need to un-stake their tokens to participate in the voting process. This incentivizes much more voter participation as it means users don’t miss rewards. More details of the voting procedure are available on the [Governance page](../../community-governance/governance.md).
 
 Platform revenue is generated from a small percentage of all the vault profits and distributed back to those who stake $TSU. The revenue sharing mechanics entail you can stake $TSU to either earn more $TSU in a TSU Native Vault or earn blue chips like $ETH, $USDT, $USDC, and more in the various TSU Earnings Pools.
 
