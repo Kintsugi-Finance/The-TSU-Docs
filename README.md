@@ -20,6 +20,6 @@ TSU is the multiutility token of Kintsugi. The utility is twofold: TSU stakers e
 
 Platform revenue is generated from a small percentage of all the vault profits and distributed back to those who stake TSU.
 
-The revenue sharing mechanics entail you can stake TSU to either earn more TSU in a TSU Maxi Vault, or earn blue chips like ETH, BNB, FTM, MATIC, AVAX, and more in the TSU Earnings Pools.
+The revenue sharing mechanics entail you can stake TSU to either earn more TSU in a TSU Native Vault, or earn blue chips like ETH, BNB, FTM, MATIC, AVAX, and more in the TSU Earnings Pools.
 
 The supply of TSU is limited at 200,000 tokens and available on SushiSwap

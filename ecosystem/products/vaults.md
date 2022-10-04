@@ -108,7 +108,7 @@ You will always withdraw the token type that you deposited, because at Kintsugi 
 
 Liquidity pool (LP) vaults work by reinvesting the fees awarded to LP participants. In return for providing liquidity to the pool, many platforms reward investors with tokens. Our vaults regularly harvest these rewards, sell it, buy more of the LP’s underlying assets, and then reinvest to complete the cycle.
 
-This compounds the rewards gained from a liquidity pool. Kintsugi.Finance creates strategies that automate this process, saving you time and gas fees in comparison to farming manually. This is all done for a tiny fee that is distributed back to those who stake in Kintsugi's governance pool or in the TSU MAX vault. A small percentage also goes to the Kintsugi Finance treasury.
+This compounds the rewards gained from a liquidity pool. Kintsugi.Finance creates strategies that automate this process, saving you time and gas fees in comparison to farming manually. This is all done for a tiny fee that is distributed back to those who stake in Kintsugi's governance pool or in the TSU Native Vault. A small percentage also goes to the Kintsugi Finance treasury.
 
 ## **How often are balances updated in the vaults?**
 
