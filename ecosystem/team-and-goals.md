@@ -2,7 +2,7 @@
 
 ## When was Kintsugi.Finance launched?
 
-Kintsugi [went live on October 6, 2022](https://medium.com/kintsugifinance/) Our first set of vaults opened on that same day.
+Kintsugi will go live soon, check our website for the countdown timer. Our first set of vaults will go live on that same day.
 
 Kintugi is forked from beefy’s battle tested code that have not been affected by any exploits. However, interacting with smart contracts is always a risk. The Kintsugi team and its associated projects are not liable for any loss of funds due to smart contract exploitation, hacks, user error or any other reason.
 Projects listed on Kintsugi Finance are provided at protocol request. Please DYOR before investing in any third party vault.

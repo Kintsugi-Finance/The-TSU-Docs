@@ -11,7 +11,7 @@ Kintsugi is a Decentralized Finance (DeFi) Yield Optimizer project, that allows 
 The project consists of an anonymous team, directly inspired by Beefy.
 As a team that has been part of the crypto world for many years, we are strong proponents of “Don't Trust, Verify”. 
 
-Kintsugi offers complex strategies that are simple and intuitive for any investor to take part in through the Vault offerings on the platform. The first set of vaults went live on October 6, 2022 on Arbitrum Chain.
+Kintsugi offers complex strategies that are simple and intuitive for any investor to take part in through the Vault offerings on the platform.
 
 ## What makes Kintsugi unique?
 
