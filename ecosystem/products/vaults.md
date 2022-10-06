@@ -62,7 +62,7 @@ They could, but vaults help you save on personal time and transaction fees, main
 
 ## **What is the vault fee structure?**
 
-Most vaults have a performance fee structure, taking 5.5% of harvest rewards. This 5.5% fee on profits is split up: 3% is distributed back to $TSU stakers, 0.5% is allocated to the treasury, 0.5% is for the strategist that developed the vault and 0.5% for the one calling the harvest function. These fees are already built into the APY of each vault and daily rate. You do not need to calculate these yourself.
+Most vaults have a performance fee structure, taking 9.5% of harvest rewards. This 9.5% fee on profits is split up: 3% is distributed back to $TSU stakers, 0.5% is allocated to the treasury, 0.5% is for the strategist that developed the vault and 0.5% for the one calling the harvest function. These fees are already built into the APY of each vault and daily rate. You do not need to calculate these yourself.
 
 The performance fee on additional yield i.e. vault profits is largely distributed back to $TSU stakers and is the main source of Kintsugi.Finance's platform revenue. A part of it also funds the treasury which is used to further fund platform development and security and other initiatives. The performance fee was also implemented to promote community engagement and governance participation. A successful and engaged community is critical for our future growth, which in-turn rewards platform users even more.
 
