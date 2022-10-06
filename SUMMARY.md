@@ -26,7 +26,7 @@
 ## Additional Resources
 
 * [Code Repositories](additional-resources/code-repositories.md)
-* [Discord] Coming soon...
+* [Discord](https://discord.gg/) Coming Soon...
 * [Github](https://github.com/Kintsugi-Finance)
 * [Medium](https://medium.com/@Kintsugifinance)
 * [Telegram](https://t.me/KintsugiFinance)
