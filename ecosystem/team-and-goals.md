@@ -2,7 +2,7 @@
 
 ## When was Kintsugi.Finance launched?
 
-Kintsugi will go live soon, check our website for the countdown timer. Our first set of vaults will go live on that same day.
+Kintsugi [went live on October 10, 2022](https://kintsugi.finance) Our first set of vaults opened on that same day.
 
 Kintugi is forked from beefy’s battle tested code that have not been affected by any exploits. However, interacting with smart contracts is always a risk. The Kintsugi team and its associated projects are not liable for any loss of funds due to smart contract exploitation, hacks, user error or any other reason.
 Projects listed on Kintsugi Finance are provided at protocol request. Please DYOR before investing in any third party vault.
@@ -18,4 +18,4 @@ Personalities get in the way of projects, and we believe Kintsugi speaks for its
 
 ## How can I get in touch with Kintsugi?
 
-Our global community managers and team members can be contacted anytime through our official [Telegram](https://t.me/kintsugifinance) and [Discord](https://discord.gg/yq8wfHd) channels. We should mention that generally speaking within investment communities there are some bad actors around looking to scam, phish, or maliciously target users. Please double check the validity of whoever you talk to, and remember that no one representing Kintsugi will ever ask you to provide wallet keys or recovery codes.
+Our global community managers and team members can be contacted anytime through our official [Telegram](https://t.me/kintsugifinance) We should mention that generally speaking within investment communities there are some bad actors around looking to scam, phish, or maliciously target users. Please double check the validity of whoever you talk to, and remember that no one representing Kintsugi will ever ask you to provide wallet keys or recovery codes.
