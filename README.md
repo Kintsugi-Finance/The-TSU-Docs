@@ -8,7 +8,7 @@ Kintsugi is a Decentralized, Yield Optimizer built on Arbitrum that allows its u
 
 Through a set of investment strategies secured and enforced by smart contracts, Kintsugi automatically maximizes the user rewards from various liquidity pools (LPs),‌ ‌automated market making (AMM) projects,‌ ‌and‌ ‌other yield‌ farming ‌opportunities in the DeFi ecosystem.
 
-Kintsugi is forked from the battle tested smart contracts of Kintsugi Finance and our core focus is aggregating yield from newer dexes/protocol on the Arbitrum network while also adopting the Beefy SAFU practices.
+Kintsugi is forked from the battle tested smart contracts of Beefy Finance and our core focus is aggregating yield from newer dexes/protocol on the Arbitrum network while also adopting the Beefy SAFU practices.
 
 The main product offered by Kintsugi Finance are the Vaults in which you stake your crypto tokens. The investment strategy tied to the Vault will automatically increase your deposited token amount by compounding arbitrary yield farm reward tokens back into your initially deposited asset. Despite the name Vault suggests, your funds are never locked in any Vault on Kintsugi: you can always withdraw at any moment in time.
 
